@@ -10,9 +10,22 @@ Title: Users can create, read, update, and delete data for a pizza in the databa
 
 * As a user, I can retrieve data about my pizzas or other pizzas created through the app.
 
+________________________________________________________________________________________________________________________________________________________________
+
+![Ss](https://karltunmoreno.github.io/My-Portfolio/assets/images/pizzastack1.jpg)
+
+
+________________________________________________________________________________________________________________________________________________________________
 ##LINK
 
 https://floating-stream-44291.herokuapp.com/
+
+
+#Tech Used:
+
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB&style=for-the-badge)
+ ![Node.js ](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)
 
 # Objectives.
 
