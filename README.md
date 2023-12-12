@@ -1,5 +1,4 @@
 # Pizza-Stack = NoSQL Project MongoDB
-Build your own pizza application
 Title: Users can create, read, update, and delete data for a pizza in the database
 
 **Description:**
