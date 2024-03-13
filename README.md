@@ -26,6 +26,9 @@ https://floating-stream-44291.herokuapp.com/
  ![Node.js ](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-Mongoose5-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)
+![Mongoose](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png)
+
+
 # Objectives.
 
 
